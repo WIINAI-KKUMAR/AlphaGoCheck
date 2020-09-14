@@ -1,2 +1,2 @@
-# Pylite
-This is about UI automation  using python language 
+# AlphaGoCheck
+This is about AlphaGoCheck automation  using python language 
